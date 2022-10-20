@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_02.Bigger_than_neighbours</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\C#\Проекти\Methods Exercises\Bigger than neighbours\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
